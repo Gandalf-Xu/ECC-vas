@@ -1,0 +1,4 @@
+classes = 80
+names = <obj.names>
+train = <train.txt>
+backup = backup/ 
